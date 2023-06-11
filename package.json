@@ -8,14 +8,15 @@
     "lint:check": "eslint --ignore-path .eslintignore --ext .js,.ts .",
     "lint:fix": "eslint --fix",
     "pritteir:check": "prettier --ignore-path .gitignore --write \"**/*.+(js|ts|json)\"",
+    "pritteir:fix":"pritteir --write .",
     "lint-pritteir": "yarn lint:check && yarn pritteir:check",
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky install"
   },
   "author": "",
   "license": "ISC",
-  "lint-staged":{
-    "src/**/*.ts":"yarn lint-pritteir"
+  "lint-staged": {
+    "src/**/*.ts": "yarn lint-pritteir"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.59.9",
