@@ -1,0 +1,85 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "H:\\for new year23\\university-management-backend-system\\logs\\winston\\success\\.d74a49c69e746eb6628e2ea2e851c087f2454aad-audit.json",
+    "files": [
+        {
+            "date": 1686690359112,
+            "name": "H:\\for new year23\\university-management-backend-system\\logs\\winston\\success\\um-2023-14-06-03-success.log",
+            "hash": "10151f9d4b04ac9c5a389c515d018d22ae930354edacd7779c278078bcbd7e49"
+        },
+        {
+            "date": 1686694244195,
+            "name": "H:\\for new year23\\university-management-backend-system\\logs\\winston\\success\\um-2023-14-06-04-success.log",
+            "hash": "ac2c55d331a04fd689a71168aeb13bb91156b1b89966b9a1f0033231c0e7adf6"
+        },
+        {
+            "date": 1686697226131,
+            "name": "H:\\for new year23\\university-management-backend-system\\logs\\winston\\success\\um-2023-14-06-05-success.log",
+            "hash": "b9e8ab758178ca54993f4512fb27eee3a7d31238aa3c0b28dbc68f12fff79da1"
+        },
+        {
+            "date": 1686743593311,
+            "name": "H:\\for new year23\\university-management-backend-system\\logs\\winston\\success\\um-2023-14-06-17-success.log",
+            "hash": "b819f971d5e798a670f04bd82af685af7bdc54fb04e12e384733754a3019da6c"
+        },
+        {
+            "date": 1686744024908,
+            "name": "H:\\for new year23\\university-management-backend-system\\logs\\winston\\success\\um-2023-14-06-18-success.log",
+            "hash": "73ba33e765807432d2ccd91ba8a3e240b916859e6e6e3db54dfb79580384845f"
+        },
+        {
+            "date": 1686757873464,
+            "name": "H:\\for new year23\\university-management-backend-system\\logs\\winston\\success\\um-2023-14-06-21-success.log",
+            "hash": "be19d5016e2074c839327fedeabf02e540fde013db9e8b050b9387dbad1bfb9e"
+        },
+        {
+            "date": 1686759227322,
+            "name": "H:\\for new year23\\university-management-backend-system\\logs\\winston\\success\\um-2023-14-06-22-success.log",
+            "hash": "82355bcc55c499b29c32dc8b270340e592f866a2527856df0664da0ace99702d"
+        },
+        {
+            "date": 1686765947981,
+            "name": "H:\\for new year23\\university-management-backend-system\\logs\\winston\\success\\um-2023-15-06-00-success.log",
+            "hash": "20522333a43891e8ba99e0d1e85090cf514787691987cb90487c8f6991b79b80"
+        },
+        {
+            "date": 1686769316061,
+            "name": "H:\\for new year23\\university-management-backend-system\\logs\\winston\\success\\um-2023-15-06-01-success.log",
+            "hash": "811a8d058e1b32d22b78b31c66c1ba1532bbf22c3de111e475da5a025aa29c26"
+        },
+        {
+            "date": 1687360696749,
+            "name": "H:\\for new year23\\university-management-backend-system\\logs\\winston\\success\\um-2023-21-06-21-success.log",
+            "hash": "6014706794aa53c90fd498805a6792816a2384682c5547a7310e2ef8c5cb0e4b"
+        },
+        {
+            "date": 1687705653151,
+            "name": "H:\\for new year23\\university-management-backend-system\\logs\\winston\\success\\um-2023-25-06-21-success.log",
+            "hash": "c2d8b036cb499e59b32c4c37432ba7478c8f7d3933b36bc567c591c36b7b4ef9"
+        },
+        {
+            "date": 1687709157033,
+            "name": "H:\\for new year23\\university-management-backend-system\\logs\\winston\\success\\um-2023-25-06-22-success.log",
+            "hash": "c18b15852058d54d8dc8735d4592ec21d9b0bfa2ba55446e9f21b2e63f4ff6da"
+        },
+        {
+            "date": 1687720709457,
+            "name": "H:\\for new year23\\university-management-backend-system\\logs\\winston\\success\\um-2023-26-06-01-success.log",
+            "hash": "f2df62ddf1f056d282898609af63cb5f63e96b8653f29e6383caba0601588b30"
+        },
+        {
+            "date": 1687724091210,
+            "name": "H:\\for new year23\\university-management-backend-system\\logs\\winston\\success\\um-2023-26-06-02-success.log",
+            "hash": "2c59d20fcb6ae27b1f7f7a443a93ccbf156ec6234937c4b7fb60e3a998a2c2b3"
+        },
+        {
+            "date": 1687726954453,
+            "name": "H:\\for new year23\\university-management-backend-system\\logs\\winston\\success\\um-2023-26-06-03-success.log",
+            "hash": "87dc2368b77b331a8a9cf75230678654e8ba20048987029022ad7289735e3d36"
+        }
+    ],
+    "hashType": "sha256"
+}

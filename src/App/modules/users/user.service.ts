@@ -1,7 +1,7 @@
-import { User } from './users.model'
-import { IUser } from './users.interface'
+import { User } from './user.model'
+import { IUser } from './user.interface'
 import config from '../../../config/index'
-import { generatedUserId } from './users.utils'
+import { generatedUserId } from './user.utils'
 
 const createUser = async (user: IUser): Promise<IUser | null> => {
   //we need auto generated incremental id and default password
@@ -21,6 +21,6 @@ const createUser = async (user: IUser): Promise<IUser | null> => {
   return createdUser
 }
 
-export default {
+export const usersService = {
   createUser,
 }
